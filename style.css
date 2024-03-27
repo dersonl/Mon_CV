@@ -1,0 +1,12 @@
+h1{
+    align-self: start;
+    background-color: black;
+    color: coral;
+    text-align: center;
+}
+
+h2{
+    background-color: chocolate;
+    color: antiquewhite;
+    text-align: right;
+}
